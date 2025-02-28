@@ -1,0 +1,4 @@
+[core]
+    remote = remotedvc
+['remote "remotedvc"']
+    url = s3://ml-pipeline-project
